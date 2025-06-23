@@ -60,8 +60,9 @@ A no-compromise Cantilever 3D Printer designed for speed and precision, created 
 
 **Thanks to everyone in the Hackclub community who supported the project, contributed in any form, or provided feedback! :purple_heart:**
 
-<br>
 -Toolhead evolved from an amazing design by [LH] and [Kanin] (https://github.com/lhndo/LH-Stinger) (https://github.com/kanin2/KevEnder)
+
+
 
 <br>
 
