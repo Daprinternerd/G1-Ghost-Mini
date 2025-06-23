@@ -20,7 +20,6 @@ A no-compromise Cantilever 3D Printer designed for speed and precision, created 
 
 - [Features](#features)
 - [Credits](#credits)
-- [License](#license)
 
 <br>
 
@@ -62,17 +61,22 @@ A no-compromise Cantilever 3D Printer designed for speed and precision, created 
 **Thanks to everyone in the Hackclub community who supported the project, contributed in any form, or provided feedback! :purple_heart:**
 
 <br>
--Toolhead evolved from an amazing design by [LH] and [Kanin] (https://github.com/lhndo/LH-Stinger) (https://github.com/kanin2/KevEnder)<br>
--Y axis by [Mitsubishi] (https://www.printables.com/model/1294194-ender-3-awd-y-axis-for-12mm-belts)<br>
--X axis tensioner by [sapencil] (https://www.printables.com/model/48121-minimalist-ender-3-x-axis-tensioner)<br>
--Ebox based on [roblpetty] (https://www.printables.com/model/201359-ender-3-v2-external-electronics-box-meanwell-psu-a)<br>
--Form factor based on [lolwutboi987] (https://github.com/Daprinternerd/PandA/tree/main)<br>
--Extruder by [nhchiu] (https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0)<br>
-<br>
-## License
+-Toolhead evolved from an amazing design by [LH] and [Kanin] (https://github.com/lhndo/LH-Stinger) (https://github.com/kanin2/KevEnder)
 
-This work is licensed under a [Creative Commons (4.0 International License)  ](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-[**Attribution—Noncommercial—Share Alike**](LICENSE.md)  
 <br>
-<img src="Images/CC.jpg" width="100">  
+
+-Y axis by [Mitsubishi] (https://www.printables.com/model/1294194-ender-3-awd-y-axis-for-12mm-belts)<br>
+
+-X axis tensioner by [sapencil] (https://www.printables.com/model/48121-minimalist-ender-3-x-axis-tensioner)<br>
+
+-Ebox based on [roblpetty] (https://www.printables.com/model/201359-ender-3-v2-external-electronics-box-meanwell-psu-a)
+
+<br>
+
+-Form factor based on [lolwutboi987] (https://github.com/Daprinternerd/PandA/tree/main)
+
+<br>
+
+-Extruder by [nhchiu] (https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0)
+
 <br>
