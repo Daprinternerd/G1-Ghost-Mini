@@ -70,16 +70,7 @@
 - Printed in PETG CF, providing high temperature resistance
 - Easily enclosed, with the main electronic components outside of the build chamber.
   - The 150 mm^2 bed configuration can be fully enclosed up to the frame bounding box, with no extra space needed for the bed movement.
-  - 
-## Resources
-<br>
-[BOM](https://docs.google.com/spreadsheets/d/1phz7-RffRIvpMKJ_e924fQqCT83ikvXl2FwaxxTpVO4/edit?usp=sharing)   
 
-
-[Design Log](https://github.com/Daprinternerd/G1-Ghost-Mini/blob/main/Journal.MD)
-<br>
-
-<br>
 
 ## Credits
 
