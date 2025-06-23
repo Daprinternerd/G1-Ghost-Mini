@@ -1,21 +1,8 @@
 # G1 Mini
 
 
-		A no-compromise Cantilever 3D Printer designed for speed and precision, created as a platform for those who like to push quality or speed to the extreme.  </strong>
-    <br />
-    <br />
-    <i>
-    <br /> 
-    <br />
-    <br />
-    </i>
-      <a > <img />  </a>
-    <br />
-</a>
-  </p>
-</p>
-
-</b>
+A no-compromise Cantilever 3D Printer designed for speed and precision, created as a platform for those who like to push quality or speed to the extreme.  </strong>
+  
 
 ![Screenshot 2025-06-22 184646](https://github.com/user-attachments/assets/3e226b83-9364-4dd4-a363-7461cb92845d)
  
