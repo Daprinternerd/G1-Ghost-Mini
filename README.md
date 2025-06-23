@@ -35,7 +35,7 @@ A no-compromise Cantilever 3D Printer designed for speed and precision, created 
 - Optimized for daily print speeds of 400-600 mm/s with 20.000 mm/s^2 acceleration
 - Motion system capable of 1.000 mm/s speed with 100.000 mm/s^2 acceleration (I think.)
 - Built using 20 series V-slotted extrusions with parts up to 4040
-- Genuine high-quality motion system components ([BOM]())
+- Genuine high-quality motion system components ([BOM](https://docs.google.com/spreadsheets/d/1phz7-RffRIvpMKJ_e924fQqCT83ikvXl2FwaxxTpVO4/edit?usp=sharing))
 - Entire motion system based on high preload MGN12H and MGN9H linear guide rails
 - Mostly belt-driven with minimal belt paths
 - Lightweight dual plate with integrated tensioner
@@ -78,10 +78,10 @@ A no-compromise Cantilever 3D Printer designed for speed and precision, created 
 
 <br>
 
--Form factor based on [lolwutboi987] (https://github.com/Daprinternerd/PandA/tree/main)
+-Form factor based on ([lolwutboi987] (https://github.com/Daprinternerd/PandA/tree/main)
 
 <br>
 
--Extruder by [nhchiu] (https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0)
+-Extruder by ([nhchiu] (https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0)
 
 <br>
