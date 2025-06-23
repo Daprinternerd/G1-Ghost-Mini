@@ -1,10 +1,6 @@
-<p align="center">
-  <p align="center">
-   <img width="128px" src=
-" />
-  </p>
-	<h1 align="center"><b>G1 Mini</b></h1>
-	<p align="center"> <strong>
+# G1 Mini
+
+
 		A no-compromise Cantilever 3D Printer designed for speed and precision, created as a platform for those who like to push quality or speed to the extreme.  </strong>
     <br />
     <br />
