@@ -36,7 +36,6 @@
 ## Contents
 
 - [Features](#features)
-- [Upcoming Projects](#future-projects)
 - [Credits](#credits)
 - [License](#license)
 
@@ -67,7 +66,7 @@
 - Protoextruder 2.0 or Protoextruder NF direct drive extruder
 - Dual 5015 fan setup for part cooling
 - Adopts the [Bigtreetech Eddy Probe](https://github.com/bigtreetech/Eddy)
-- Minimalistic [printed part design](/STL) focused on strength and easy printability
+- Minimalistic printed part design focused on strength and easy printability
 - Printed in PETG CF, providing high temperature resistance
 - Easily enclosed, with the main electronic components outside of the build chamber.
   - The 150 mm^2 bed configuration can be fully enclosed up to the frame bounding box, with no extra space needed for the bed movement.
@@ -77,7 +76,7 @@
 - [**BOM**](https://docs.google.com/spreadsheets/d/1phz7-RffRIvpMKJ_e924fQqCT83ikvXl2FwaxxTpVO4/edit?usp=sharing)  
 - [STL Files](STL/)  
 - [CAD Source Files ](CAD/) 
-- [Design Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)
+- [Design Log](https://github.com/Daprinternerd/G1-Ghost-Mini/blob/main/Journal.MD)
 <br>
 
 <br>
