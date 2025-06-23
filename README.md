@@ -1,20 +1,19 @@
 <p align="center">
   <p align="center">
-   <img width="128px" src="![Screenshot 2025-06-22 184646](https://github.com/user-attachments/assets/c12ab792-3219-4b2d-bb8d-cd96058c9ac1)
+   <img width="128px" src=
 " />
   </p>
-	<h1 align="center"><b>LH Stinger</b></h1>
+	<h1 align="center"><b>G1 Mini</b></h1>
 	<p align="center"> <strong>
-		A no-compromise cartesian 3D Printer designed for speed and precision, created as a long-lasting platform for those who like to push quality or speed to the extreme.  </strong>
+		A no-compromise Cantilever 3D Printer designed for speed and precision, created as a platform for those who like to push quality or speed to the extreme.  </strong>
     <br />
     <br />
-    <i>~ This project intends to become a community-driven project, not a brand. ~
+    <i>
     <br /> 
     <br />
-    Join us: 
     <br />
     </i>
-      <a href="https://discord.gg/EzssCfnEDS"> <img  src="Images/disc.png" />  </a>
+      <a > <img />  </a>
     <br />
 </a>
   </p>
