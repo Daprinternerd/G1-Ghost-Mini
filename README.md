@@ -73,10 +73,10 @@
   - 
 ## Resources
 <br>
-- [BOM](https://docs.google.com/spreadsheets/d/1phz7-RffRIvpMKJ_e924fQqCT83ikvXl2FwaxxTpVO4/edit?usp=sharing)   
-- [STL Files](STL/)  
-- [CAD Source Files ](CAD/) 
-- [Design Log](https://github.com/Daprinternerd/G1-Ghost-Mini/blob/main/Journal.MD)
+[BOM](https://docs.google.com/spreadsheets/d/1phz7-RffRIvpMKJ_e924fQqCT83ikvXl2FwaxxTpVO4/edit?usp=sharing)   
+
+
+[Design Log](https://github.com/Daprinternerd/G1-Ghost-Mini/blob/main/Journal.MD)
 <br>
 
 <br>
@@ -88,12 +88,12 @@
 **Thanks to everyone in the Hackclub community who supported the project, contributed in any form, or provided feedback! :purple_heart:**
 
 <br>
--Toolhead evolved from an amazing design by [LH] and [Kanin](https://github.com/lhndo/LH-Stinger) (https://github.com/kanin2/KevEnder)<br>
--Y axis by [Mitsubishi](https://www.printables.com/model/1294194-ender-3-awd-y-axis-for-12mm-belts)<br>
--X axis tensioner by [sapencil](https://www.printables.com/model/48121-minimalist-ender-3-x-axis-tensioner)<br>
--Ebox based on [roblpetty](https://www.printables.com/model/201359-ender-3-v2-external-electronics-box-meanwell-psu-a)<br>
--Form factor based on [lolwutboi987](https://github.com/Daprinternerd/PandA/tree/main)<br>
--Extruder by [nhchiu](https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0)<br>
+-Toolhead evolved from an amazing design by [LH] and [Kanin] (https://github.com/lhndo/LH-Stinger) (https://github.com/kanin2/KevEnder)<br>
+-Y axis by [Mitsubishi] (https://www.printables.com/model/1294194-ender-3-awd-y-axis-for-12mm-belts)<br>
+-X axis tensioner by [sapencil] (https://www.printables.com/model/48121-minimalist-ender-3-x-axis-tensioner)<br>
+-Ebox based on [roblpetty] (https://www.printables.com/model/201359-ender-3-v2-external-electronics-box-meanwell-psu-a)<br>
+-Form factor based on [lolwutboi987] (https://github.com/Daprinternerd/PandA/tree/main)<br>
+-Extruder by [nhchiu] (https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0)<br>
 <br>
 ## License
 
