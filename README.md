@@ -73,7 +73,8 @@
   - 
 ## Resources
 <br>
-- [**BOM**](https://docs.google.com/spreadsheets/d/1phz7-RffRIvpMKJ_e924fQqCT83ikvXl2FwaxxTpVO4/edit?usp=sharing)  
+- [BOM](https://docs.google.com/spreadsheets/d/1phz7-RffRIvpMKJ_e924fQqCT83ikvXl2FwaxxTpVO4/edit?usp=sharing)  
+
 - [STL Files](STL/)  
 - [CAD Source Files ](CAD/) 
 - [Design Log](https://github.com/Daprinternerd/G1-Ghost-Mini/blob/main/Journal.MD)
