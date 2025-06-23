@@ -36,12 +36,8 @@
 ## Contents
 
 - [Features](#features)
-- [Resources](#resources)
-- [Assembly Instructions](#assembly-instructions)
 - [Upcoming Projects](#future-projects)
-- [Contact](#contact)
 - [Credits](#credits)
-- [Support](#support)
 - [License](#license)
 
 <br>
@@ -78,7 +74,7 @@
   - 
 ## Resources
 <br>
-- [**BOM**](https://docs.google.com/spreadsheets/d/1s8ulLfThmbuy1G_40MvkXXL2oVx9PZhvpAY9hMxqYbg/edit?usp=drive_link)  
+- [**BOM**](https://docs.google.com/spreadsheets/d/1phz7-RffRIvpMKJ_e924fQqCT83ikvXl2FwaxxTpVO4/edit?usp=sharing)  
 - [STL Files](STL/)  
 - [CAD Source Files ](CAD/) 
 - [Design Log](https://github.com/lhndo/LH-Stinger/wiki/Build-Log)
@@ -93,24 +89,14 @@
 **Thanks to everyone in the Hackclub community who supported the project, contributed in any form, or provided feedback! :purple_heart:**
 
 <br>
-
-Inspired by the [LH Stinger](https://github.com/Annex-Engineering), along with the [Klipper community](https://discord.klipper3d.org), [RatRig](https://ratrig.com/) and all the crazy people that continue to push bed slingers to the limits. :purple_heart:_
-
--Toolhead evolved from an amazing design by [Dalegaard](https://github.com/dalegaard)<br>
--Silicon sock mold based on [Renátó Kulman](https://www.printables.com/@RenatoKulman)<br>
--Wago 221 mounts by [fns720](https://www.printables.com/@fns720)<br>
--SSR protection cover based on [Technoturk](https://www.printables.com/@Technoturk_377911)<br>
--3030 extrusion Cable clip based on [Arthur_C](https://www.printables.com/@Arthur_C_428094)<br>
--3030 t-nut clip based on [John_S](https://www.printables.com/@JohnS)<br>
+-Toolhead evolved from an amazing design by [LH] and [Kanin](https://github.com/lhndo/LH-Stinger) (https://github.com/kanin2/KevEnder)<br>
+-Y axis by [Mitsubishi](https://www.printables.com/model/1294194-ender-3-awd-y-axis-for-12mm-belts)<br>
+-X axis tensioner by [sapencil](https://www.printables.com/model/48121-minimalist-ender-3-x-axis-tensioner)<br>
+-Ebox based on [roblpetty](https://www.printables.com/model/201359-ender-3-v2-external-electronics-box-meanwell-psu-a)<br>
+-Form factor based on [lolwutboi987](https://github.com/Daprinternerd/PandA/tree/main)<br>
+-Extruder by [nhchiu](https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0)<br>
 <br>
-
-## Support
-
-<a href='https://ko-fi.com/P5P7PF0ED' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-
 ## License
-
 
 This work is licensed under a [Creative Commons (4.0 International License)  ](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 [**Attribution—Noncommercial—Share Alike**](LICENSE.md)  
