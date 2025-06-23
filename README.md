@@ -65,9 +65,13 @@ A no-compromise Cantilever 3D Printer designed for speed and precision, created 
 
 <br>
 
--Y axis by [Mitsubishi] (https://www.printables.com/model/1294194-ender-3-awd-y-axis-for-12mm-belts)<br>
+-Y axis by [Mitsubishi] (https://www.printables.com/model/1294194-ender-3-awd-y-axis-for-12mm-belts)
 
--X axis tensioner by [sapencil] (https://www.printables.com/model/48121-minimalist-ender-3-x-axis-tensioner)<br>
+<br>
+
+-X axis tensioner by [sapencil] (https://www.printables.com/model/48121-minimalist-ender-3-x-axis-tensioner)
+
+<br>
 
 -Ebox based on [roblpetty] (https://www.printables.com/model/201359-ender-3-v2-external-electronics-box-meanwell-psu-a)
 
