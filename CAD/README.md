@@ -7,3 +7,4 @@ It is advised to create a folder inside your Fusion workspace in which to import
 STEP files are provided for compatibility with other CAD software. 
 
 <br>
+![Screenshot 2025-06-22 184654](https://github.com/user-attachments/assets/d295cb2a-2de8-404b-8e74-1b259db65e0c)
