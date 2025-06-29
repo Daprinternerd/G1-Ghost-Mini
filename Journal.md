@@ -249,6 +249,8 @@ Time Spent: 3 Hours
 
 # 6/28/25 Final Touches
 
-I added things to the repo ,exported the BOM to the repo, finished the lo,g and did last-minute CAD work
+I added things to the repo, exported the BOM to the repo, finished the log, and did last-minute CAD work
 Time Spent: 3 hours
 
+# Note
+I did use a lot of reference material in this project, please do understand, though, in the end, all the CAD ended up being mine, either by replacing the part with something better that I made or by somthing else like that "ship of thesus style" it ended up being unrecognisable as the oringinal inspo.
